@@ -1,5 +1,5 @@
 {
-    "name": "alexgiuvara/imgproxy",
+    "name": "dtdi/imgproxy",
     "description": "Laravel Service Provider for imgproxy: Resize your images instantly and securely",
     "keywords": ["laravel","resize","image","proxy","imgproxy","micro-service"],
     "homepage": "https://github.com/alexgiuvara/imgproxy",
